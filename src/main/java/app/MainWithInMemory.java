@@ -29,7 +29,7 @@ public class MainWithInMemory {
         // Build the main program window, the main panel containing the
         // various cards, and the layout, and stitch them together.
 
-        // The main application window.
+        // The main application window
         final JFrame application = new JFrame("Login Example");
         application.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
